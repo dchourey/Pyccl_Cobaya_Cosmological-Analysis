@@ -6,4 +6,4 @@ data_vector_l_cl : This data file holds the multipole values and angular power s
 
 cov_er_oss_media.fits: Covariance file
 
-This script used to make the corner plot using the chains made by pyccl_cobaya.py
+GetDistGUI.py : This script used to make the corner plot using the chains made by pyccl_cobaya.py
